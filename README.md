@@ -1,2 +1,5 @@
+<div dir='rtl' lang='he'>
+
 # MyDoodleJump
- my version of Doodle Jump
+
+<div>
